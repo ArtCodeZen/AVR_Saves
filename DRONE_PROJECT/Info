@@ -1,0 +1,33 @@
+ENGLISH:
+
+BASED: Thanks for JOOP BROOKING, YMFC - Your Multicopter Flight Controller Arduino Atmega 328p
+
+INFO: 
+In this page contains the code of drone in development, using the chip Atmega 328p. The codes are written in pure C AVR, 
+but some modifications can be introduced. 
+The code can be edited, but the name of author must be carried in this project.
+
+CAUTION: 
+If you want to test this code it's all your risk, to set the PID don't test with the props! if you want to fly choose an 
+suitable local.
+
+AUTHOR: Henrique Hiromiti Watanabe
+obs. contributors are welcome.
+
+
+PORTUGUES BRASILEIRO:
+
+INFORMAÇÃO : Agradecimento para JOOP BROOKING, YMFC - Seu Controlador de voo multirotor
+
+Nesta Página contêm o código do drone em desenvolvimento, usando o chip Atmega 328p. O códigos estão escritos em C puro da AVR, 
+mas algumas modificações podem ser introduzidas.
+
+CUIDADO:
+Se você quiser testar este código e de todo o seu risco, para setar o PID não teste com as hélices! Se você quiser voar escolha
+um local adequado.
+
+AUTHOR: Henrique Hiromiti Watanabe
+
+obs. contribuidores são bem vindos.
+
+
