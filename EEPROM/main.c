@@ -13,7 +13,7 @@ int main(void)
 	EEPROM_write(0, 255);		// valores podem serem escritos de 0 a 255 ou 256 
 	DDRD = 0xff;
     /* Replace with your application code */
-    while (1) 
+    while (1) 				// main
     {
 		if(EEPROM_read(0) == 255)
 		{
